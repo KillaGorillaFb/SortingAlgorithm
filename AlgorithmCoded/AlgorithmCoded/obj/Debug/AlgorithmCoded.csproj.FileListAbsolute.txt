@@ -1,0 +1,7 @@
+C:\Users\barri\source\repos\AlgorithmCoded\AlgorithmCoded\obj\Debug\AlgorithmCoded.csproj.CoreCompileInputs.cache
+C:\Users\barri\source\repos\AlgorithmCoded\AlgorithmCoded\bin\Debug\AlgorithmCoded.exe.config
+C:\Users\barri\source\repos\AlgorithmCoded\AlgorithmCoded\bin\Debug\AlgorithmCoded.exe
+C:\Users\barri\source\repos\AlgorithmCoded\AlgorithmCoded\bin\Debug\AlgorithmCoded.pdb
+C:\Users\barri\source\repos\AlgorithmCoded\AlgorithmCoded\obj\Debug\AlgorithmCoded.exe
+C:\Users\barri\source\repos\AlgorithmCoded\AlgorithmCoded\obj\Debug\AlgorithmCoded.pdb
+C:\Users\barri\source\repos\AlgorithmCoded\AlgorithmCoded\obj\Debug\AlgorithmCoded.csprojAssemblyReference.cache
